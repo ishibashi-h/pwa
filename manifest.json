@@ -4,7 +4,7 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "app_name": "TAP 5",
+  "name": "TAP 5",
   "short_name": "TAP 5",
   "description": "TAP 5",
   "icons": [
