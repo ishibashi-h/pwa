@@ -2,7 +2,7 @@
   "theme_color": "#ffffff",
   "background_color": "#007BFF",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "https://ishibashi-h.github.io/pwa/index.html",
   "name": "TAP 5",
   "short_name": "TAP 5",
   "description": "TAP 5",
