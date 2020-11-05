@@ -1,0 +1,8 @@
+{
+  "name": "TAP 5",
+  "short_name": "TAP 5",
+  "start_url": "/index.html?utm_source=homescreen",
+  "display": "standalone",
+  "background_color": "#007BFF",
+  "theme_color": "#007BFF"
+}
