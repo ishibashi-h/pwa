@@ -2,6 +2,7 @@
   "theme_color": "#ffffff",
   "background_color": "#007BFF",
   "display": "standalone",
+  "scope": "/",
   "start_url": "/",
   "name": "TAP 5",
   "short_name": "TAP 5",
